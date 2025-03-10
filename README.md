@@ -1,2 +1,1 @@
-# Projects
-# Having Fun Now.  
+#This is a simple mortgage calculator. 
